@@ -17,9 +17,13 @@ Programming_languages_Im_interested_in = [Javascript, C#, Java]
 ```
 ----
 
-- Social Contact ME.
+- Contact ME.
 ```
-- Twitter : @cordinarse
-- Discord : beete#1337
-- Telegram : @beete#7698
+Social_networks = [
+
+"- Twitter : @cordinarse",
+"- Discord : beete#1337",
+"- Telegram : @beete#7698"
+
+]
 ```
