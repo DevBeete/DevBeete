@@ -23,7 +23,7 @@ Social_networks = [
 
 "- Twitter : @cordinarse",
 "- Discord : beete#1337",
-"- Telegram : @beete#7698"
+"- Telegram : "@beete"
 
 ]
 ```
