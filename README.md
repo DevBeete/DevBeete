@@ -9,12 +9,17 @@ Name = "Beete."
 Age = "14 Years old."
 Country = "Chile."
 
-print("Hello, my name is caydex and I am currently 14 years old and I live in Chile.")
-
-Programming_languages = Python
-
-Programming_languages_Im_interested_in = ["Javascript", "C#", "Java"]
+print("Hello, my name is beete and I am currently 14 years old and I live in Chile.")
 ```
+----
+
+- Interests
+
+```
+Currently interested in new programming languages, some of these languages ​​are : Javascript, C# and Java
+
+```
+
 ----
 
 - Contact ME.
