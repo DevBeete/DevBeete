@@ -18,7 +18,8 @@ print("Hello, my name is beete and I am currently 14 years old and I live in Chi
 ## Interests
 
 ```
-Currently interested in new programming languages, some of these languages ​​are : Javascript, C# and Java
+Currently interested in new programming languages.
+Some of these languages are : Javascript, C# and Java
 
 ```
 
