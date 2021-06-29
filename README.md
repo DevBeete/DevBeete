@@ -4,7 +4,7 @@
 
 ----
 
-- Information about me.
+## Information about me.
 
 ```
 Name = "Beete."
@@ -15,7 +15,7 @@ print("Hello, my name is beete and I am currently 14 years old and I live in Chi
 ```
 ----
 
-- Interests
+## Interests
 
 ```
 Currently interested in new programming languages, some of these languages ​​are : Javascript, C# and Java
@@ -24,7 +24,8 @@ Currently interested in new programming languages, some of these languages ​�
 
 ----
 
-- Contact ME.
+## Contact ME.
+
 ```
 Social_networks = [
 
